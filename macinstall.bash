@@ -87,8 +87,3 @@ brew cask install ${apps[@]}
 echo "Cleaning up App installation..."
 rm -rf /Library/Caches/Homebrew/*
 echo "Complete!"
-
-###To run...
-#chmod -x macinstall.sh
-###initiate installer with following command
-#./macinstall.sh
